@@ -1,0 +1,47 @@
+html {
+    margin: 7px;
+    background-color: beige;
+
+}
+#descExercicio {
+    background-color: aqua;
+    border: 3px solid black;
+    text-align: center;
+}
+
+#texto {
+    text-align: center;
+    border-bottom: solid black 3px;
+    
+}
+
+.caixaAlturaEpeso {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#peso {
+    font-size: 20px;
+    border-radius: 10px;
+    height: 45px;
+    width: 850px;
+
+}
+
+#altura {
+    font-size: 20px;
+    border-radius: 10px;
+    height: 45px;
+    width: 850px;
+}
+
+.butao {
+    font-size: 20px;
+    border-radius: 9px;
+}
+
+#resultado {
+    text-align: center;
+    font-size: 30px;
+}
